@@ -1,0 +1,5 @@
+thầy có thể tạo dùm em đường dẫn 
+cd đường dẫn để built chương trình dùm em
+thầy thay thế lênh cd đường dẫn vào giúp em do em dùng mac os nên không làm được
+Thầy sửa trong file run.bat
+Con file product.bat là chương trình em làm bên mac.
